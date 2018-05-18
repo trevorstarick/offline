@@ -1,0 +1,4 @@
+- git init
+- git ignore
+- add readme
+- make alpine more configurable (architecture, version)
