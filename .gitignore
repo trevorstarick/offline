@@ -4,6 +4,9 @@ archlinux
 
 # tools
 
+# vim stuff
+._*
+
 # macos stuff
 .Spotlight-V100
 .fseventsd
